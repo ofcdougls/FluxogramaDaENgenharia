@@ -1,0 +1,15 @@
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\bin\Debug\net6.0\FluxogramaDaENgenharia.exe
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\bin\Debug\net6.0\FluxogramaDaENgenharia.deps.json
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\bin\Debug\net6.0\FluxogramaDaENgenharia.runtimeconfig.json
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\bin\Debug\net6.0\FluxogramaDaENgenharia.dll
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\bin\Debug\net6.0\FluxogramaDaENgenharia.pdb
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.csproj.AssemblyReference.cache
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.AssemblyInfoInputs.cache
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.AssemblyInfo.cs
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.csproj.CoreCompileInputs.cache
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.dll
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\refint\FluxogramaDaENgenharia.dll
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.pdb
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\FluxogramaDaENgenharia.genruntimeconfig.cache
+C:\Users\ofcdo\devc#\FluxogramaDaENgenharia\obj\Debug\net6.0\ref\FluxogramaDaENgenharia.dll
